@@ -18,7 +18,7 @@ about:
       href: <https://jlefkowicz.github.io>
     - icon: file-earmark-pdf
       text: Resumé
-      href: https://GITHUB_USERNAME.github.io/resume.pdf
+      href: <hhttps://github.com/jlefkowicz/jlefkowicz.github.io/blob/708f7356e9093ad6eb2a22457886ad8b042980a9/resume.pdf>
     - icon: mailbox
       text: Email
       href: mailto:YOUR_EMAIL@geneseo.edu
