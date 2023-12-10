@@ -9,16 +9,16 @@ about:
   links:
     - icon: linkedins
       text: LinkedIn
-      href: <https://www.linkedin.com/in/joshua-lefkowicz>
+      href: <www.linkedin.com/in/joshua-lefkowicz-b6a4252a4>
     - icon: instagram
       text: Instagram
       href: https://instagram.com
     - icon: github
       text: GitHub
-      href: https://github.com
+      href: <https://jlefkowicz.github.io>
     - icon: file-earmark-pdf
       text: Resumé
-      href: https://GITHUB_USERNAME.github.io/resume-example.pdf
+      href: https://GITHUB_USERNAME.github.io/resume.pdf
     - icon: mailbox
       text: Email
       href: mailto:YOUR_EMAIL@geneseo.edu
