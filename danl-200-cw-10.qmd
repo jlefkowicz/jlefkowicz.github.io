@@ -50,13 +50,10 @@ rmarkdown::paged_table(billboard)
 billboard <- read_csv('https://bcdanl.github.io/data/billboard.csv')
 ```
 
-
 ### Without Facets
 
 ```{r}
-ggplot(billboard)+
-  geom_histogram(aes(x=wk1))+
-  facet.wrap(.~)
+
 ```
 
 ### With Facets
@@ -70,22 +67,6 @@ q1a <- billboard %>%
 ```
 
 ```{r}
-ggplot(q1a,aes)+
+
   
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -24,20 +24,3 @@ format:
     css: styles.css
     toc: false
     include-after-body: target_blank.html
-  
-left:
-  - text: Project
-  href: project.qmd
-  - text: Blog
-  href: blog-listing.qmd
-  - text: Homeowrk
-    href: hw.qmd
-left:
-  - text: "Projects"
-    menu:
-      - project_1.qmd
-      - project_2.qmd
-
-    
-  
-
